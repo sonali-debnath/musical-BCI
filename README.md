@@ -1,7 +1,7 @@
 # fMRI Responses to Musical Genres Classification in Data Scare Environment
 
 
-## cite this
+## Cite This
 ```
 @inproceedings{
  title={fMRI Responses to Musical Genres Classification in Data Scare Environment},
