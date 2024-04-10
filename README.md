@@ -8,7 +8,7 @@
 
 ## Cite This
 ```
-@inproceedings{
+@miscellaneous{
  title={fMRI Responses to Musical Genres Classification in Data Scare Environment},
  author={Subhayu Dutta and Saptiva Goswami and Sonali Debnath and Subhrangshu Adhikary and Anandaprova Majumder},
  month={April},
